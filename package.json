@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "date-utils": "^1.2.21",
     "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
     "serialport": "^10.4.0"
   },
   "name": "webwithnodejs",
